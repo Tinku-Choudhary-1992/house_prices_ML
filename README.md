@@ -19,5 +19,7 @@ Consumer Confidence: Accurate house price predictions instill confidence among c
 Overall, house price predictions serve as a fundamental tool for navigating the complex dynamics of the real estate market, facilitating informed decision-making, mitigating risks, and driving economic growth and prosperity. By harnessing the power of data analytics and machine learning, stakeholders can leverage predictive models to gain a competitive edge and achieve their objectives in the ever-evolving world of real estate.
 
 
+![white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d36e05aa85ac9](https://github.com/Tinku-Choudhary-1992/house_prices_ML/assets/162289654/2f5039c0-e52e-4e98-bcc8-e3b4f1229eb8)
+
 
 
